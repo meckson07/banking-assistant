@@ -1,0 +1,19 @@
+.transaction-page {
+    width: 100%;
+    height: 100%;
+    padding-top: 20px;
+}
+
+.capture-container {
+    width: 60%;
+    max-height: 60%;
+    height: 60%;
+    display: block;
+    margin: 0px auto;
+    box-sizing: border-box;
+}
+
+.capture-container > .webcam {
+    width: 100%;
+    height: 100%;
+}
